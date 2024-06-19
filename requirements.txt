@@ -1,0 +1,19 @@
+# Data Acquisition
+yfinance==0.2.12
+pandas==1.5.3
+
+# Feature Engineering and Data Manipulation
+numpy==1.24.3
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Portfolio Optimization
+cvxpy==1.2.2
+
+# Backtesting
+backtrader==1.9.75.123
+
+# Visualization (if needed)
+matplotlib==3.7.1
+seaborn==0.12.2
