@@ -15,4 +15,4 @@ if __name__ == "__main__":
     tickers = ['AAPL', 'MSFT', 'GOOGL']
     data_acq = DataAcquisition(tickers, '2020-01-01', '2023-01-01')
     data = data_acq.fetch_data()
-    data.to_csv('../data/processed/market_data.csv')
+    data.to_csv('data/processed/market_data.csv')
